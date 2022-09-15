@@ -1,0 +1,5 @@
+name: EventListeners2
+version: '${project.version}'
+main: me.shalckercraft.eventlisteners2.Plugin
+api-version: 1.16
+authors: [ ShalckerCraft ]
